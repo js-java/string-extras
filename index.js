@@ -4,6 +4,7 @@
  */
 'use strict';
 
+var assert = require('assert');
 var util = require('core-util-is');
 
 /**
@@ -14,6 +15,8 @@ var util = require('core-util-is');
  * @api public
  */
 exports.hashCode = function(str) {
+  assert(util.isString(str), 'string.hashCode require String');
+
   if (util.isFunction(str.hashCode)) {
     return str.hashCode();
   }
