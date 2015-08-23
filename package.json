@@ -1,0 +1,29 @@
+{
+  "name": "string-extras",
+  "version": "0.0.1",
+  "description": "Extra utilities for string",
+  "keywords": [
+    "string",
+    "utility",
+    "extra"
+  ],
+  "maintainers": [
+    {
+      "name": "Deng Ruoqi",
+      "email": "drqzju@gmail.com"
+    }
+  ],
+  "scripts": {
+    "test": "mocha ./test/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:luckydrq/string-extras.git"
+  },
+  "dependencies": {
+    "core-util-is": "~1.0.1"
+  },
+  "devDependencies": {
+    "mocha": "~2.2.5"
+  }
+}
