@@ -4,6 +4,7 @@
   "description": "Extra utilities for string",
   "keywords": [
     "string",
+    "hashcode",
     "utility",
     "extra"
   ],
