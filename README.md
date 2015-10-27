@@ -10,9 +10,8 @@ Extra utilities for string.
 
 ## Example
 ```javascript
-// string.hashCode
-var string = require('string-hashcode');
-var hashCode = string.hashCode("abc"));
+var hashCode = require('string-hashcode');
+var code = hashCode("abc"));
 ```
 
 ## API
