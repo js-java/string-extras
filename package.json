@@ -1,6 +1,6 @@
 {
   "name": "string-hashcode",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "java.lang.String.hashCode",
   "keywords": [
     "string",

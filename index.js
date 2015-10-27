@@ -14,7 +14,7 @@ var util = require('core-util-is');
  * @return {Number}
  * @api public
  */
-exports.hashCode = function(str) {
+module.exports = function hashCode(str) {
   assert(util.isString(str), 'string.hashCode require String');
 
   if (util.isFunction(str.hashCode)) {
