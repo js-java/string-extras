@@ -11,7 +11,14 @@ Extra utilities for string.
 ## Example
 ```javascript
 var hashCode = require('string-hashcode');
-var code = hashCode("abc"));
+var s = 'abc';
+
+console.log(s.hashCode); // undefined
+var code = hashCode(s);
+console.log(s.hashCode); // Function
+
+var code2 = s.hashCode();
+assert.equal(code, code2);
 ```
 
 ## API
