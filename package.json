@@ -1,12 +1,11 @@
 {
-  "name": "string-extras",
+  "name": "string-hashcode",
   "version": "0.0.2",
-  "description": "Extra utilities for string",
+  "description": "java.lang.String.hashCode",
   "keywords": [
     "string",
     "hashcode",
-    "utility",
-    "extra"
+    "java"
   ],
   "maintainers": [
     {
@@ -19,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:luckydrq/string-extras.git"
+    "url": "git@github.com:js-java/string-hashcode.git"
   },
   "dependencies": {
     "core-util-is": "~1.0.1"
