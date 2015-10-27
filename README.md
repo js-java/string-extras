@@ -38,7 +38,7 @@ MIT
 
 [npm-image]: https://img.shields.io/npm/v/string-hashcode.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/string-hashcode
-[travis-image]: https://img.shields.io/travis/luckydrq/string-hashcode/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/luckydrq/string-hashcode
-[coveralls-image]: https://img.shields.io/coveralls/luckydrq/string-hashcode/master.svg?style=flat-square
-[coveralls-url]: https://coveralls.io/r/luckydrq/string-hashcode?branch=master
+[travis-image]: https://img.shields.io/travis/js-java/string-hashcode/master.svg?style=flat-square
+[travis-url]: https://travis-ci.org/js-java/string-hashcode
+[coveralls-image]: https://img.shields.io/coveralls/js-java/string-hashcode/master.svg?style=flat-square
+[coveralls-url]: https://coveralls.io/r/js-java/string-hashcode?branch=master
